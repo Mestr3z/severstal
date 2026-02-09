@@ -34,8 +34,8 @@
 
 - `App` - управление состоянием приложения, заметками и темой
 - `Sidebar` - панель управления и навигации
-- `NotesList` — список заметок
-- `Editor` — rich text редактор на базе `contenteditable`
+- `NotesList` - список заметок
+- `Editor` - rich text редактор на базе `contenteditable`
 
 ---
 
